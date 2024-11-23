@@ -1,5 +1,5 @@
 import os
-from templates import resources, server
+from assets.templates import resources, server
 from colorama import Fore, Style, init
 
 init(autoreset=True)
